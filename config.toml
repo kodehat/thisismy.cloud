@@ -1,0 +1,31 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "This Is My Cloud Portal"
+theme = "sam"
+
+[params]
+    #dateform             = "Mon Jan 02, 2006"
+    #dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    #favicon              = "sam.ico"
+    homepage             = "portal"
+    footerText           = "Works like a portal."
+
+[[params.mainMenu]]
+    link = "https://box.thisismy.cloud/admin"
+    text = "box"
+
+[[params.mainMenu]]
+    link = "https://box.thisismy.cloud/mail"
+    text = "mail"
+
+[[params.mainMenu]]
+    link = "https://box.thisismy.cloud/cloud"
+    text = "cloud"
+
+[[params.mainMenu]]
+    link = "https://pihole.thisismy.cloud/admin"
+    text = "pi-hole"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
