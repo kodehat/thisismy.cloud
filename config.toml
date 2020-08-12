@@ -12,15 +12,19 @@ theme = "sam"
 
 [[params.mainMenu]]
     link = "https://box.thisismy.cloud/admin"
-    text = "box"
+    text = "mail-in-a-box"
 
 [[params.mainMenu]]
     link = "https://box.thisismy.cloud/mail"
-    text = "mail"
+    text = "roundcube"
 
 [[params.mainMenu]]
     link = "https://box.thisismy.cloud/cloud"
-    text = "cloud"
+    text = "nextcloud"
+
+[[params.mainMenu]]
+    link = "https://gamepanel.thisismy.cloud"
+    text = "pterodactyl"
 
 [[params.mainMenu]]
     link = "https://pihole.thisismy.cloud/admin"
