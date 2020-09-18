@@ -1,0 +1,19 @@
+{
+    "name": "thisismy.cloud",
+    "version": "0.0.1",
+    "description": "Website of thisismy.cloud ",
+    "repository": "https://github.com/kodehat/thisismy.cloud",
+    "license": "MIT",
+    "private": true,
+    "devDependencies": {
+        "autoprefixer": "^9.7.4",
+        "postcss": "^7.0.27",
+        "postcss-cli": "^7.1.0"
+    },
+    "browserslist": [
+        "last 1 version",
+        "> 1%",
+        "maintained node versions",
+        "not dead"
+    ]
+}
