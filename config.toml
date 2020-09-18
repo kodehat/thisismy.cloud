@@ -35,5 +35,9 @@ theme = "sam"
     text = "teamspeak 3"
 
 [[params.mainMenu]]
+    link = "/servers"
+    text = "servers"
+
+[[params.mainMenu]]
     link = "/about"
     text = "about"
