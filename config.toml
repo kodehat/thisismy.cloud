@@ -11,23 +11,16 @@ theme = "sam"
     footerText           = "Works like a portal."
 
 [[params.mainMenu]]
-    link = "https://box.thisismy.cloud/admin"
-    text = "mail-in-a-box"
+    link = "https://box.thisismy.cloud"
+    text = "mailcow"
 
-[[params.mainMenu]]
-    link = "https://box.thisismy.cloud/mail"
-    text = "roundcube"
-
-[[params.mainMenu]]
-    link = "https://box.thisismy.cloud/cloud"
-    text = "nextcloud"
 
 [[params.mainMenu]]
     link = "https://gamepanel.thisismy.cloud"
     text = "pterodactyl"
 
 [[params.mainMenu]]
-    link = "https://pihole.thisismy.cloud/admin"
+    link = "https://pihole.thisismy.cloud"
     text = "pi-hole"
 
 [[params.mainMenu]]
