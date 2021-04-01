@@ -11,17 +11,36 @@ theme = "sam"
     footerText           = "Works like a portal."
 
 [[params.mainMenu]]
-    link = "https://box.thisismy.cloud"
-    text = "mailcow"
+    link = "https://status.thisismy.cloud"
+    text = "status"
 
+[[params.mainMenu]]
+    link = "https://backups.thisismy.cloud"
+    text = "backups"
+
+[[params.mainMenu]]
+    link = "https://sync.thisismy.cloud"
+    text = "cloud"
+
+[[params.mainMenu]]
+    link = "https://dns.thisismy.cloud"
+    text = "dns"
 
 [[params.mainMenu]]
     link = "https://gamepanel.thisismy.cloud"
-    text = "pterodactyl"
+    text = "game panel"
 
 [[params.mainMenu]]
-    link = "https://pihole.thisismy.cloud"
-    text = "pi-hole"
+    link = "https://mail.thisismy.cloud"
+    text = "mail"
+
+[[params.mainMenu]]
+    link = "https://manage.thisismy.cloud"
+    text = "management"
+
+[[params.mainMenu]]
+    link = "https://proxy.thisismy.cloud"
+    text = "proxy"
 
 [[params.mainMenu]]
     link = "/teamspeak3"
@@ -33,4 +52,4 @@ theme = "sam"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "about"
+    text = "what is this?"

@@ -12,4 +12,3 @@ Some of the servers require a password to be able to join. Ask a member of the T
 |---------------- | --------------- | --------------- |
 | TeamSpeak 3     | [teamspeak3.thisismy.cloud](#) | The TeamSpeak 3 Server of the Tadir community.    |
 | Garry's Mod (TTT) | [ttt.thisismy.cloud](#) | The Garry's Mod Server running Trouble in Terrorist Town of the Tadir community. |
-| Factorio | [factorio.thisismy.cloud](#) | The Factorio Server of the Tadir community. |
