@@ -43,6 +43,10 @@ theme = "sam"
     text = "proxy"
 
 [[params.mainMenu]]
+    link = "https://vault.thisismy.cloud"
+    text = "vault"
+
+[[params.mainMenu]]
     link = "/teamspeak3"
     text = "teamspeak 3"
 
