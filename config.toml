@@ -15,14 +15,6 @@ theme = "sam"
     text = "status"
 
 [[params.mainMenu]]
-    link = "https://backups.thisismy.cloud"
-    text = "backups"
-
-[[params.mainMenu]]
-    link = "https://sync.thisismy.cloud"
-    text = "cloud"
-
-[[params.mainMenu]]
     link = "https://dns.thisismy.cloud"
     text = "dns"
 
@@ -33,14 +25,6 @@ theme = "sam"
 [[params.mainMenu]]
     link = "https://mail.thisismy.cloud"
     text = "mail"
-
-[[params.mainMenu]]
-    link = "https://manage.thisismy.cloud"
-    text = "management"
-
-[[params.mainMenu]]
-    link = "https://proxy.thisismy.cloud"
-    text = "proxy"
 
 [[params.mainMenu]]
     link = "https://vault.thisismy.cloud"
