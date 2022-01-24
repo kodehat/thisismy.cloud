@@ -6,7 +6,7 @@ theme = "sam"
 [params]
     #dateform             = "Mon Jan 02, 2006"
     #dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    #favicon              = "sam.ico"
+    favicon              = "favicon.ico"
     homepage             = "portal"
     footerText           = "Works like a portal."
 
@@ -31,12 +31,16 @@ theme = "sam"
     text = "vault"
 
 [[params.mainMenu]]
-    link = "/teamspeak3"
-    text = "teamspeak 3"
+    link = "https://finances.thisismy.cloud"
+    text = "finances"
 
 [[params.mainMenu]]
-    link = "/servers"
-    text = "servers"
+    link = "https://board.thisismy.cloud"
+    text = "board"
+
+[[params.mainMenu]]
+    link = "/teamspeak3"
+    text = "teamspeak 3"
 
 [[params.mainMenu]]
     link = "/about"

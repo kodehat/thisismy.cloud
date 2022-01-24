@@ -6,7 +6,7 @@ draft: false
 
 ## Important Information
 
-I'm hosting a TeamSpeak 3 server at [teamspeak3.thisismy.cloud](ts3server://teamspeak3.thisismy.cloud?port=9987). This server has no password and is only meant for friends of mine (and their friends and so on).
+I'm hosting a TeamSpeak 3 server at [teamspeak.tadir.de](ts3server://teamspeak.tadir.de?port=9987). This server has no password and is only meant for friends of mine (and their friends and so on).
 
 **TL;DR:** The server is not for public use!
 
