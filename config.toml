@@ -31,10 +31,6 @@ theme = "sam"
     text = "vault"
 
 [[params.mainMenu]]
-    link = "https://finances.thisismy.cloud"
-    text = "finances"
-
-[[params.mainMenu]]
     link = "https://board.thisismy.cloud"
     text = "board"
 
